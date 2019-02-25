@@ -1,3 +1,0 @@
-/home/chris/CLionProjects/OpenGLTriangle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/chris/CLionProjects/OpenGLTriangle/cmake-build-debug/CMakeFiles/OpenGLTriangle.dir
-/home/chris/CLionProjects/OpenGLTriangle/cmake-build-debug/CMakeFiles/edit_cache.dir
