@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/OpenGLTriangle.dir/glad.c.o CMakeFiles/OpenGLTriangle.dir/main.cpp.o CMakeFiles/OpenGLTriangle.dir/stb_image.cpp.o  -o OpenGLTriangle -lGL -lGLU -lglfw3 -lX11 -lXxf86vm -lXrandr -lpthread -lXi -ldl -lXinerama -lXcursor 
